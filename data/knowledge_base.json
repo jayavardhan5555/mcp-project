@@ -1,0 +1,5 @@
+[
+  {"id": "HR-001", "title": "Leave policy overview", "text": "Employees should submit planned leave requests through the HR portal. Managers approve requests according to team coverage and company policy. Check the official HR portal for current balances and eligibility."},
+  {"id": "ENG-001", "title": "Engineering on-call process", "text": "The on-call engineer acknowledges a production alert, assesses impact, follows the incident runbook, and escalates to the service owner when needed. Record important actions in the incident channel and complete a post-incident review for significant incidents."},
+  {"id": "SEC-001", "title": "Handling sensitive data", "text": "Only access data required for your role and task. Do not paste credentials or personal data into logs, prompts, or public channels. Report suspected data exposure through the approved security incident process."}
+]
